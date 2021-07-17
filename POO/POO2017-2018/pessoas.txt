@@ -1,0 +1,61 @@
+30
+Aluno
+Desportivo-Cristiano Ronaldo-CR7-Informática
+Aluno
+Cultural-Rui Patricio-Frango-Design Multimédia
+Aluno
+Poupadinho-Eduardo-001-Informática
+Aluno
+Boémio-Marafona-Marafas1-Design
+Aluno
+Desportivo-Bruno Alves-Caceteiro-Informática
+Aluno
+Boémio-Eliseu-Picanha-Informática
+Aluno
+Desportivo-Ronaldo-CR7-Informática
+Aluno
+Cultural-Patricio-Frango-Design Multimédia
+Aluno
+Poupadinho-Eduardoo-001-Informática
+Aluno
+Boémio-Marafonaa-Marafas1-Design
+Professor
+Desportivo-Alves-Caceteiro-Catedrático
+Professor
+Boémio-EliseuPicanha-Picanha-Associado
+Professor
+Desportivo-Nelson Semedo-blackfriday-Catedrático
+Professor
+Poupadinho-Pizzi-pizza-Auxiliar
+Professor
+Boémio-Scolari-2004-Associado
+Professor
+Desportivo-Figo-figo-Auxiliar
+Professor
+Poupadinho-Scolari Primo-2004-Catedrático
+Professor
+Cultural-Gelson Semedo-Gelson-Auxiliar
+Professor
+Desportivo-Ricardo El Quaresma-Quaresma-Catedrático
+Professor
+Boémio-Menino Eder-Campeao-Catedrático
+Funcionario
+Cultural-Ernani-1-Parcial
+Funcionario
+Boémio-Artur Jorge-234-Parcial
+Funcionario
+Poupadinho-Jorge Costa-234-Integral
+Funcionario
+Poupadinho-Katarina-1234-Integral
+Funcionario
+Desportivo-Rui-5678-Parcial
+Funcionario
+Boémio-Scolari Mole-20004-Parcial
+Funcionario
+Desportivo-Jorge Costa-2234-Integral
+Funcionario
+Poupadinho-Katar-1234-Integral
+Funcionario
+Desportivo-Rui Reis-56478-Parcial
+Funcionario
+Boémio-Scolari Duro-2043304-Parcial

@@ -1,0 +1,81 @@
+40
+Area Desportiva
+EstadioUC-30-30-30-rugby,tenis,futebol
+Area Desportiva
+EstadioA-31-31-32-rugby
+Area Desportiva
+EstadioB-30-30-33-tenis,futebol
+Area Desportiva
+EstadioC-30-30-35-rugby,tenis,futebol
+Area Desportiva
+EstadioD-30-50-30-rugby,tenis,futebol,badminton
+Area Desportiva
+EstadioE-60-30-30-rugby,tenis,futebol,golf
+Area Desportiva
+EstadioF-70-30-30-rugby,tenis,futebol,natacao
+Area Desportiva
+EstadioG-50-30-30-rugby,tenis,futebol,macaca
+Area Desportiva
+EstadioH-80-30-30-rugby,tenis,futebol,tenis
+Area Desportiva
+EstadioI-80-30-30-rugby,tenis,futebol,apanhada
+Exposicao
+Museu1-20-20-30-Pintura-16.5
+Exposicao
+Museu2-20-20-30-Pintura-3.79
+Exposicao
+Museu3-20-20-30-Pintura-10.01
+Exposicao
+Museu4-20-20-30-Pintura-25
+Exposicao
+Museu5-20-20-30-Pintura-20
+Exposicao
+Museu6-20-20-30-Pintura-10.0
+Exposicao
+Museu7-20-20-30-Pintura-17
+Exposicao
+Museu8-20-20-30-Pintura-10.1
+Exposicao
+Museu9-20-20-30-Pintura-7
+Exposicao
+Museu-20-20-30-Pintura-8
+Jardim
+Gardin1-220-45-79-180.98
+Jardim
+Gardin2-221-45-79-180
+Jardim
+Gardin3-220-45-79-180.8
+Jardim
+Gardin4-220-445-79-10.98
+Jardim
+Gardin5-220-445-79-180.98
+Jardim
+Gardin6-220-454-79-180.9
+Jardim
+Gardin7-220-454-79-1.98
+Jardim
+Gardin8-220-45-79-180.98
+Jardim
+Gardin9-220-475-79-10.1
+Jardim
+Gardin10-20-4523-79-18
+Bar
+Bar1-45-45-45-20-15
+Bar
+Bar2-45-45-45-230-16
+Bar
+Bar3-45-45-45-220-15
+Bar
+Bar4-45-45-45-220-15
+Bar
+Bar5-45-45-45-202-15
+Bar
+Bar6-45-45-45-200-17
+Bar
+Bar7-45-45-45-210-15
+Bar
+Bar8-45-45-45-201-15
+Bar
+Bar9-45-45-45-230-15
+Bar
+Bar10-45-45-45-203-15
